@@ -13,3 +13,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+#Este programa solicita al usuario que ingrese una palabra, luego verifica la longitud de la palabra ingresada 
+# y proporciona un mensaje apropiado según las condiciones establecidas
